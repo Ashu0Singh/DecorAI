@@ -1,0 +1,8 @@
+.env
+.venv
+yolov8x.pt
+yolov8n.pt
+yolov8m.pt
+yolov5s.pt
+yolov5m_Objects365.pt
+__pycache__
