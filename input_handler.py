@@ -40,10 +40,10 @@ class InputHandler:
             "quality": 70,
             "output_width": 768,
             "output_height": 512,
-            "guidance_scale": 23,
+            "guidance_scale": 20,
             "prompt_strength": 0.55,
             "controlnet_conditioning_scale": [0.6],
-            "seed": 3929441273,
+            "seed": 1037781578,
             "image_guidance_scale": 1.2,
         }
 
